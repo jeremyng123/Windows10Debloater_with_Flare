@@ -1,5 +1,20 @@
 # Windows10Debloater
 
+> Give thanks to the original user Sycnex for this amazing repository.  
+> ALso, thanks FireEye Flare for the scripts to disable annoying Windows Telemetry, Windows Defender, etc.
+
+
+## Commands to run
+> Needless to say, you should assume to be administrator when performing these actions.  
+> More importantly, i do **NOT** take responsibility for what may happen to your system. It should be assumed that you know what u are doing when u are executing this  
+1. Debloating: `.\Windows10SysPrepDebloater.ps1 -Sysprep -Debloat -Privacy`
+2. Bare bones config: `.\Default.cmd`
+
+
+   
+
+## Original README from `Sycnex` below
+
 [![made-with-powershell](https://img.shields.io/badge/PowerShell-1f425f?logo=Powershell)](https://microsoft.com/PowerShell)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 

@@ -1,7 +1,7 @@
 # Windows10Debloater
 
 > Give thanks to the original user Sycnex for this amazing repository.  
-> ALso, thanks FireEye Flare for the scripts to disable annoying Windows Telemetry, Windows Defender, etc.
+> ALso, thanks [FireEye Flare](https://github.com/mandiant/flare-vm) for the scripts to disable annoying Windows Telemetry, Windows Defender, etc.
 
 
 ## Commands to run
